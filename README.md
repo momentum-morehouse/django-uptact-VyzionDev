@@ -109,3 +109,5 @@ This project was generated from the Momentum Django project template. This templ
 - There is a `templates/` and a `static/` directory at the top level, both of which are set up to be used.
 - A `.gitignore` file is provided.
 - [Poetry](https://python-poetry.org/) is used to manage dependencies.
+
+[![Run on Repl.it](https://repl.it/badge/github/momentum-morehouse/django-uptact-VyzionDev)](https://repl.it/github/momentum-morehouse/django-uptact-VyzionDev)
